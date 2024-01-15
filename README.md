@@ -1,4 +1,4 @@
-# La página de os Esland reimaginada
+# La página de los Esland reimaginada
 
 Creada para fines didácticos y educativos.
 
