@@ -44,7 +44,8 @@
 - [**Astro**](https://astro.build/) - The web framework for content-driven websites.
 - [**Typescript**](https://www.typescriptlang.org/) - JavaScript with syntax for types.
 - [**Tailwindcss**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-- [**tailwind]
+- [**tailwindcss-animated**](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS.
+- [**fontsource**](https://fontsource.org/) - Self-host Open Source fonts in neatly bundled NPM packages.
 
 ## 🚀 Getting Started
 
@@ -93,3 +94,11 @@ pnpm dev
 <a href="https://github.com/salorb/esland-clone/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=salorb/esland-clone" />
 </a>
+
+## 🧞 Commands
+
+|     | Command          | Action                                        |
+| :-- | :--------------- | :-------------------------------------------- |
+| ⚙️  | `dev` or `start` | Starts local dev server at `localhost:3000`.  |
+| ⚙️  | `build`          | Build your production site to `./dist/`.      |
+| ⚙️  | `preview`        | Preview your build locally, before deploying. |
